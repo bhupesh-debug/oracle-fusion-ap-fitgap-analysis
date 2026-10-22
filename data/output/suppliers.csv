@@ -1,0 +1,51 @@
+supplier_id,supplier_name,tax_id,payment_terms,payment_method,matching_level
+SUP0001,Apex Logistics Solutions - Region 1,XX-XXX0001,2% 10 Net 30,Electronic (ACH),2-Way
+SUP0002,NexGen Cloud Hosting - Region 2,XX-XXX0002,Net 30,Electronic (ACH),3-Way
+SUP0003,Beacon Industrial Supplies - Region 3,XX-XXX0003,Net 60,Electronic (ACH),2-Way
+SUP0004,Pinnacle Facilities Management - Region 4,XX-XXX0004,Net 30,Electronic (ACH),2-Way
+SUP0005,Summit Tech Hardware - Region 5,XX-XXX0005,2% 10 Net 30,Electronic (ACH),2-Way
+SUP0006,Vanguard Office Interiors - Region 6,XX-XXX0006,2% 10 Net 30,Electronic (ACH),3-Way
+SUP0007,Atlas Strategic Consulting - Region 7,XX-XXX0007,2% 10 Net 30,Electronic (ACH),2-Way
+SUP0008,Crestview Security Systems - Region 8,XX-XXX0008,2% 10 Net 30,Electronic (ACH),3-Way
+SUP0009,Quantum Data Analytics - Region 9,XX-XXX0009,Net 30,Electronic (ACH),2-Way
+SUP0010,Horizon Global Freight - Region 10,XX-XXX0010,Net 30,Electronic (ACH),2-Way
+SUP0011,Dynamic Packaging Corp - Region 11,XX-XXX0011,Net 30,Electronic (ACH),3-Way
+SUP0012,Matrix Precision Tooling - Region 12,XX-XXX0012,2% 10 Net 30,Electronic (ACH),2-Way
+SUP0013,Apex Logistics Solutions - Region 13,XX-XXX0013,2% 10 Net 30,Electronic (ACH),2-Way
+SUP0014,NexGen Cloud Hosting - Region 14,XX-XXX0014,2% 10 Net 30,Electronic (ACH),3-Way
+SUP0015,Beacon Industrial Supplies - Region 15,XX-XXX0015,2% 10 Net 30,Electronic (ACH),3-Way
+SUP0016,Pinnacle Facilities Management - Region 16,XX-XXX0016,Net 60,Electronic (ACH),2-Way
+SUP0017,Summit Tech Hardware - Region 17,XX-XXX0017,Net 60,Electronic (ACH),3-Way
+SUP0018,Vanguard Office Interiors - Region 18,XX-XXX0018,Net 60,Electronic (ACH),2-Way
+SUP0019,Atlas Strategic Consulting - Region 19,XX-XXX0019,Net 30,Electronic (ACH),3-Way
+SUP0020,Crestview Security Systems - Region 20,XX-XXX0020,Net 60,Electronic (ACH),3-Way
+SUP0021,Quantum Data Analytics - Region 21,XX-XXX0021,Net 60,Electronic (ACH),2-Way
+SUP0022,Horizon Global Freight - Region 22,XX-XXX0022,Net 30,Electronic (ACH),3-Way
+SUP0023,Dynamic Packaging Corp - Region 23,XX-XXX0023,Net 30,Electronic (ACH),2-Way
+SUP0024,Matrix Precision Tooling - Region 24,XX-XXX0024,Net 60,Electronic (ACH),2-Way
+SUP0025,Apex Logistics Solutions - Region 25,XX-XXX0025,Net 60,Electronic (ACH),3-Way
+SUP0026,NexGen Cloud Hosting - Region 26,XX-XXX0026,2% 10 Net 30,Electronic (ACH),3-Way
+SUP0027,Beacon Industrial Supplies - Region 27,XX-XXX0027,Net 30,Electronic (ACH),3-Way
+SUP0028,Pinnacle Facilities Management - Region 28,XX-XXX0028,Net 60,Electronic (ACH),3-Way
+SUP0029,Summit Tech Hardware - Region 29,XX-XXX0029,Net 30,Electronic (ACH),3-Way
+SUP0030,Vanguard Office Interiors - Region 30,XX-XXX0030,Net 30,Electronic (ACH),3-Way
+SUP0031,Atlas Strategic Consulting - Region 31,XX-XXX0031,Net 60,Electronic (ACH),3-Way
+SUP0032,Crestview Security Systems - Region 32,XX-XXX0032,2% 10 Net 30,Electronic (ACH),3-Way
+SUP0033,Quantum Data Analytics - Region 33,XX-XXX0033,2% 10 Net 30,Electronic (ACH),2-Way
+SUP0034,Horizon Global Freight - Region 34,XX-XXX0034,2% 10 Net 30,Electronic (ACH),2-Way
+SUP0035,Dynamic Packaging Corp - Region 35,XX-XXX0035,Net 30,Electronic (ACH),3-Way
+SUP0036,Matrix Precision Tooling - Region 36,XX-XXX0036,Net 30,Electronic (ACH),3-Way
+SUP0037,Apex Logistics Solutions - Region 37,XX-XXX0037,Net 30,Electronic (ACH),2-Way
+SUP0038,NexGen Cloud Hosting - Region 38,XX-XXX0038,Net 30,Electronic (ACH),3-Way
+SUP0039,Beacon Industrial Supplies - Region 39,XX-XXX0039,Net 60,Electronic (ACH),3-Way
+SUP0040,Pinnacle Facilities Management - Region 40,XX-XXX0040,2% 10 Net 30,Electronic (ACH),3-Way
+SUP0041,Summit Tech Hardware - Region 41,XX-XXX0041,Net 30,Electronic (ACH),3-Way
+SUP0042,Vanguard Office Interiors - Region 42,XX-XXX0042,Net 60,Electronic (ACH),2-Way
+SUP0043,Atlas Strategic Consulting - Region 43,XX-XXX0043,2% 10 Net 30,Electronic (ACH),3-Way
+SUP0044,Crestview Security Systems - Region 44,XX-XXX0044,2% 10 Net 30,Electronic (ACH),3-Way
+SUP0045,Quantum Data Analytics - Region 45,XX-XXX0045,2% 10 Net 30,Electronic (ACH),2-Way
+SUP0046,Horizon Global Freight - Region 46,XX-XXX0046,2% 10 Net 30,Electronic (ACH),3-Way
+SUP0047,Dynamic Packaging Corp - Region 47,XX-XXX0047,Net 30,Electronic (ACH),3-Way
+SUP0048,Matrix Precision Tooling - Region 48,XX-XXX0048,2% 10 Net 30,Electronic (ACH),2-Way
+SUP0049,Apex Logistics Solutions - Region 49,XX-XXX0049,Net 30,Electronic (ACH),3-Way
+SUP0050,NexGen Cloud Hosting - Region 50,XX-XXX0050,Net 60,Electronic (ACH),3-Way

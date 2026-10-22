@@ -1,0 +1,301 @@
+invoice_id,invoice_num,supplier_id,supplier_name,invoice_date,amount,currency,match_level,approval_status,hold_status,payment_status,gl_account
+INV00001,AP-2026001,SUP0041,Summit Tech Hardware - Region 41,2026-10-15,86098.2,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00002,AP-2026002,SUP0004,Pinnacle Facilities Management - Region 4,2026-10-15,28823.75,USD,2-Way,Held - Pending Change Order,PRICE HOLD,Unpaid,101-200-511000-000-000
+INV00003,AP-2026003,SUP0021,Quantum Data Analytics - Region 21,2026-10-15,50295.31,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00004,AP-2026004,SUP0046,Horizon Global Freight - Region 46,2026-10-15,39506.07,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00005,AP-2026005,SUP0030,Vanguard Office Interiors - Region 30,2026-10-15,18073.23,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00006,AP-2026006,SUP0048,Matrix Precision Tooling - Region 48,2026-10-15,73177.1,USD,2-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00007,AP-2026007,SUP0009,Quantum Data Analytics - Region 9,2026-10-15,63813.41,USD,2-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00008,AP-2026008,SUP0041,Summit Tech Hardware - Region 41,2026-10-15,20207.75,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00009,AP-2026009,SUP0039,Beacon Industrial Supplies - Region 39,2026-10-15,124516.14,USD,3-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00010,AP-2026010,SUP0001,Apex Logistics Solutions - Region 1,2026-10-15,85115.36,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00011,AP-2026011,SUP0050,NexGen Cloud Hosting - Region 50,2026-10-15,80209.98,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00012,AP-2026012,SUP0047,Dynamic Packaging Corp - Region 47,2026-10-15,109512.65,USD,3-Way,Approved by CFO,None,Paid,101-200-511000-000-000
+INV00013,AP-2026013,SUP0041,Summit Tech Hardware - Region 41,2026-10-15,37480.99,USD,3-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00014,AP-2026014,SUP0049,Apex Logistics Solutions - Region 49,2026-10-15,20403.24,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00015,AP-2026015,SUP0039,Beacon Industrial Supplies - Region 39,2026-10-15,40688.47,USD,3-Way,Held - Pending Change Order,PRICE HOLD,Unpaid,101-200-511000-000-000
+INV00016,AP-2026016,SUP0024,Matrix Precision Tooling - Region 24,2026-10-15,109870.55,USD,2-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00017,AP-2026017,SUP0037,Apex Logistics Solutions - Region 37,2026-10-15,118381.94,USD,2-Way,Approved by CFO,None,Paid,101-200-511000-000-000
+INV00018,AP-2026018,SUP0050,NexGen Cloud Hosting - Region 50,2026-10-15,15938.62,USD,3-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00019,AP-2026019,SUP0034,Horizon Global Freight - Region 34,2026-10-15,109086.02,USD,2-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00020,AP-2026020,SUP0047,Dynamic Packaging Corp - Region 47,2026-10-15,86310.99,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00021,AP-2026021,SUP0024,Matrix Precision Tooling - Region 24,2026-10-15,54902.99,USD,2-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00022,AP-2026022,SUP0022,Horizon Global Freight - Region 22,2026-10-15,2874.02,USD,3-Way,Auto-Approved,None,Unpaid,101-200-511000-000-000
+INV00023,AP-2026023,SUP0046,Horizon Global Freight - Region 46,2026-10-15,78980.09,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00024,AP-2026024,SUP0005,Summit Tech Hardware - Region 5,2026-10-15,64390.98,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00025,AP-2026025,SUP0047,Dynamic Packaging Corp - Region 47,2026-10-15,116955.4,USD,3-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00026,AP-2026026,SUP0027,Beacon Industrial Supplies - Region 27,2026-10-15,24003.64,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00027,AP-2026027,SUP0030,Vanguard Office Interiors - Region 30,2026-10-15,108013.63,USD,3-Way,Approved by CFO,None,Unpaid,101-200-511000-000-000
+INV00028,AP-2026028,SUP0047,Dynamic Packaging Corp - Region 47,2026-10-15,42578.0,USD,3-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00029,AP-2026029,SUP0029,Summit Tech Hardware - Region 29,2026-10-15,17737.74,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00030,AP-2026030,SUP0005,Summit Tech Hardware - Region 5,2026-10-15,55530.56,USD,2-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00031,AP-2026031,SUP0035,Dynamic Packaging Corp - Region 35,2026-10-15,104544.44,USD,3-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00032,AP-2026032,SUP0011,Dynamic Packaging Corp - Region 11,2026-10-15,50950.15,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00033,AP-2026033,SUP0011,Dynamic Packaging Corp - Region 11,2026-10-15,47526.9,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00034,AP-2026034,SUP0030,Vanguard Office Interiors - Region 30,2026-10-15,35834.84,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00035,AP-2026035,SUP0043,Atlas Strategic Consulting - Region 43,2026-10-15,89871.43,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00036,AP-2026036,SUP0038,NexGen Cloud Hosting - Region 38,2026-10-15,92033.21,USD,3-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00037,AP-2026037,SUP0031,Atlas Strategic Consulting - Region 31,2026-10-15,62980.59,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00038,AP-2026038,SUP0006,Vanguard Office Interiors - Region 6,2026-10-15,106454.98,USD,3-Way,Approved by CFO,None,Paid,101-200-511000-000-000
+INV00039,AP-2026039,SUP0037,Apex Logistics Solutions - Region 37,2026-10-15,30965.36,USD,2-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00040,AP-2026040,SUP0038,NexGen Cloud Hosting - Region 38,2026-10-15,70762.06,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00041,AP-2026041,SUP0021,Quantum Data Analytics - Region 21,2026-10-15,30026.07,USD,2-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00042,AP-2026042,SUP0021,Quantum Data Analytics - Region 21,2026-10-15,116145.04,USD,2-Way,Held - Pending Change Order,PRICE HOLD,Unpaid,101-200-511000-000-000
+INV00043,AP-2026043,SUP0040,Pinnacle Facilities Management - Region 40,2026-10-15,124807.19,USD,3-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00044,AP-2026044,SUP0017,Summit Tech Hardware - Region 17,2026-10-15,16773.96,USD,3-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00045,AP-2026045,SUP0019,Atlas Strategic Consulting - Region 19,2026-10-15,19928.92,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00046,AP-2026046,SUP0042,Vanguard Office Interiors - Region 42,2026-10-15,66235.35,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00047,AP-2026047,SUP0007,Atlas Strategic Consulting - Region 7,2026-10-15,117381.52,USD,2-Way,Approved by CFO,None,Paid,101-200-511000-000-000
+INV00048,AP-2026048,SUP0018,Vanguard Office Interiors - Region 18,2026-10-15,35399.09,USD,2-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00049,AP-2026049,SUP0017,Summit Tech Hardware - Region 17,2026-10-15,63299.78,USD,3-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00050,AP-2026050,SUP0041,Summit Tech Hardware - Region 41,2026-10-15,53091.08,USD,3-Way,Held - Awaiting Warehouse Receipt,QTY REC HOLD,Unpaid,101-200-511000-000-000
+INV00051,AP-2026051,SUP0050,NexGen Cloud Hosting - Region 50,2026-10-15,16569.75,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00052,AP-2026052,SUP0046,Horizon Global Freight - Region 46,2026-10-15,53603.94,USD,3-Way,Held - Pending Change Order,PRICE HOLD,Unpaid,101-200-511000-000-000
+INV00053,AP-2026053,SUP0005,Summit Tech Hardware - Region 5,2026-10-15,118145.1,USD,2-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00054,AP-2026054,SUP0024,Matrix Precision Tooling - Region 24,2026-10-15,72918.07,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00055,AP-2026055,SUP0003,Beacon Industrial Supplies - Region 3,2026-10-15,112390.85,USD,2-Way,Approved by CFO,None,Paid,101-200-511000-000-000
+INV00056,AP-2026056,SUP0027,Beacon Industrial Supplies - Region 27,2026-10-15,121736.17,USD,3-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00057,AP-2026057,SUP0011,Dynamic Packaging Corp - Region 11,2026-10-15,122031.7,USD,3-Way,Held - Awaiting Warehouse Receipt,QTY REC HOLD,Unpaid,101-200-511000-000-000
+INV00058,AP-2026058,SUP0048,Matrix Precision Tooling - Region 48,2026-10-15,115579.79,USD,2-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00059,AP-2026059,SUP0048,Matrix Precision Tooling - Region 48,2026-10-15,101390.98,USD,2-Way,Approved by CFO,None,Paid,101-200-511000-000-000
+INV00060,AP-2026060,SUP0031,Atlas Strategic Consulting - Region 31,2026-10-15,27998.61,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00061,AP-2026061,SUP0015,Beacon Industrial Supplies - Region 15,2026-10-15,28059.71,USD,3-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00062,AP-2026062,SUP0005,Summit Tech Hardware - Region 5,2026-10-15,120869.42,USD,2-Way,Approved by CFO,None,Paid,101-200-511000-000-000
+INV00063,AP-2026063,SUP0035,Dynamic Packaging Corp - Region 35,2026-10-15,41560.95,USD,3-Way,Held - Pending Change Order,PRICE HOLD,Unpaid,101-200-511000-000-000
+INV00064,AP-2026064,SUP0017,Summit Tech Hardware - Region 17,2026-10-15,22526.34,USD,3-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00065,AP-2026065,SUP0028,Pinnacle Facilities Management - Region 28,2026-10-15,43374.47,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00066,AP-2026066,SUP0008,Crestview Security Systems - Region 8,2026-10-15,48303.13,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00067,AP-2026067,SUP0001,Apex Logistics Solutions - Region 1,2026-10-15,65110.06,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00068,AP-2026068,SUP0048,Matrix Precision Tooling - Region 48,2026-10-15,83910.91,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00069,AP-2026069,SUP0022,Horizon Global Freight - Region 22,2026-10-15,77988.64,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00070,AP-2026070,SUP0033,Quantum Data Analytics - Region 33,2026-10-15,38833.26,USD,2-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00071,AP-2026071,SUP0009,Quantum Data Analytics - Region 9,2026-10-15,24182.05,USD,2-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00072,AP-2026072,SUP0012,Matrix Precision Tooling - Region 12,2026-10-15,77035.49,USD,2-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00073,AP-2026073,SUP0019,Atlas Strategic Consulting - Region 19,2026-10-15,26470.29,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00074,AP-2026074,SUP0029,Summit Tech Hardware - Region 29,2026-10-15,55409.43,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00075,AP-2026075,SUP0048,Matrix Precision Tooling - Region 48,2026-10-15,21419.0,USD,2-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00076,AP-2026076,SUP0022,Horizon Global Freight - Region 22,2026-10-15,11900.05,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00077,AP-2026077,SUP0013,Apex Logistics Solutions - Region 13,2026-10-15,18632.41,USD,2-Way,Held - Pending Change Order,PRICE HOLD,Unpaid,101-200-511000-000-000
+INV00078,AP-2026078,SUP0031,Atlas Strategic Consulting - Region 31,2026-10-15,76506.43,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00079,AP-2026079,SUP0037,Apex Logistics Solutions - Region 37,2026-10-15,24505.8,USD,2-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00080,AP-2026080,SUP0042,Vanguard Office Interiors - Region 42,2026-10-15,86030.9,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00081,AP-2026081,SUP0050,NexGen Cloud Hosting - Region 50,2026-10-15,53286.99,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00082,AP-2026082,SUP0004,Pinnacle Facilities Management - Region 4,2026-10-15,69786.37,USD,2-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00083,AP-2026083,SUP0030,Vanguard Office Interiors - Region 30,2026-10-15,83530.32,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00084,AP-2026084,SUP0029,Summit Tech Hardware - Region 29,2026-10-15,76678.38,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00085,AP-2026085,SUP0036,Matrix Precision Tooling - Region 36,2026-10-15,55877.72,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00086,AP-2026086,SUP0049,Apex Logistics Solutions - Region 49,2026-10-15,31093.16,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00087,AP-2026087,SUP0041,Summit Tech Hardware - Region 41,2026-10-15,30095.92,USD,3-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00088,AP-2026088,SUP0022,Horizon Global Freight - Region 22,2026-10-15,40133.77,USD,3-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00089,AP-2026089,SUP0045,Quantum Data Analytics - Region 45,2026-10-15,19312.46,USD,2-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00090,AP-2026090,SUP0030,Vanguard Office Interiors - Region 30,2026-10-15,52117.84,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00091,AP-2026091,SUP0038,NexGen Cloud Hosting - Region 38,2026-10-15,118271.24,USD,3-Way,Approved by CFO,None,Paid,101-200-511000-000-000
+INV00092,AP-2026092,SUP0023,Dynamic Packaging Corp - Region 23,2026-10-15,37501.93,USD,2-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00093,AP-2026093,SUP0035,Dynamic Packaging Corp - Region 35,2026-10-15,93502.58,USD,3-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00094,AP-2026094,SUP0015,Beacon Industrial Supplies - Region 15,2026-10-15,34298.68,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00095,AP-2026095,SUP0026,NexGen Cloud Hosting - Region 26,2026-10-15,90591.63,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00096,AP-2026096,SUP0035,Dynamic Packaging Corp - Region 35,2026-10-15,3614.06,USD,3-Way,Auto-Approved,None,Unpaid,101-200-511000-000-000
+INV00097,AP-2026097,SUP0042,Vanguard Office Interiors - Region 42,2026-10-15,53719.44,USD,2-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00098,AP-2026098,SUP0021,Quantum Data Analytics - Region 21,2026-10-15,26654.62,USD,2-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00099,AP-2026099,SUP0049,Apex Logistics Solutions - Region 49,2026-10-15,118912.71,USD,3-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00100,AP-2026100,SUP0048,Matrix Precision Tooling - Region 48,2026-10-15,67542.53,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00101,AP-2026101,SUP0050,NexGen Cloud Hosting - Region 50,2026-10-15,119671.38,USD,3-Way,Held - Pending Change Order,PRICE HOLD,Unpaid,101-200-511000-000-000
+INV00102,AP-2026102,SUP0016,Pinnacle Facilities Management - Region 16,2026-10-15,25120.25,USD,2-Way,Held - Pending Change Order,PRICE HOLD,Unpaid,101-200-511000-000-000
+INV00103,AP-2026103,SUP0010,Horizon Global Freight - Region 10,2026-10-15,30008.48,USD,2-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00104,AP-2026104,SUP0030,Vanguard Office Interiors - Region 30,2026-10-15,87508.26,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00105,AP-2026105,SUP0048,Matrix Precision Tooling - Region 48,2026-10-15,89865.06,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00106,AP-2026106,SUP0038,NexGen Cloud Hosting - Region 38,2026-10-15,3453.38,USD,3-Way,Auto-Approved,None,Paid,101-200-511000-000-000
+INV00107,AP-2026107,SUP0026,NexGen Cloud Hosting - Region 26,2026-10-15,117698.46,USD,3-Way,Approved by CFO,None,Unpaid,101-200-511000-000-000
+INV00108,AP-2026108,SUP0045,Quantum Data Analytics - Region 45,2026-10-15,96616.99,USD,2-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00109,AP-2026109,SUP0037,Apex Logistics Solutions - Region 37,2026-10-15,97883.76,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00110,AP-2026110,SUP0033,Quantum Data Analytics - Region 33,2026-10-15,81031.02,USD,2-Way,Held - Pending Change Order,PRICE HOLD,Unpaid,101-200-511000-000-000
+INV00111,AP-2026111,SUP0027,Beacon Industrial Supplies - Region 27,2026-10-15,102835.78,USD,3-Way,Approved by CFO,None,Paid,101-200-511000-000-000
+INV00112,AP-2026112,SUP0046,Horizon Global Freight - Region 46,2026-10-15,19335.65,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00113,AP-2026113,SUP0040,Pinnacle Facilities Management - Region 40,2026-10-15,101072.85,USD,3-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00114,AP-2026114,SUP0047,Dynamic Packaging Corp - Region 47,2026-10-15,74161.21,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00115,AP-2026115,SUP0018,Vanguard Office Interiors - Region 18,2026-10-15,110233.49,USD,2-Way,Approved by CFO,None,Paid,101-200-511000-000-000
+INV00116,AP-2026116,SUP0002,NexGen Cloud Hosting - Region 2,2026-10-15,61914.74,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00117,AP-2026117,SUP0017,Summit Tech Hardware - Region 17,2026-10-15,42707.27,USD,3-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00118,AP-2026118,SUP0001,Apex Logistics Solutions - Region 1,2026-10-15,64699.25,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00119,AP-2026119,SUP0036,Matrix Precision Tooling - Region 36,2026-10-15,94831.04,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00120,AP-2026120,SUP0002,NexGen Cloud Hosting - Region 2,2026-10-15,11858.41,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00121,AP-2026121,SUP0038,NexGen Cloud Hosting - Region 38,2026-10-15,46285.3,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00122,AP-2026122,SUP0036,Matrix Precision Tooling - Region 36,2026-10-15,41516.21,USD,3-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00123,AP-2026123,SUP0008,Crestview Security Systems - Region 8,2026-10-15,90230.22,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00124,AP-2026124,SUP0045,Quantum Data Analytics - Region 45,2026-10-15,23347.44,USD,2-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00125,AP-2026125,SUP0049,Apex Logistics Solutions - Region 49,2026-10-15,65698.45,USD,3-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00126,AP-2026126,SUP0015,Beacon Industrial Supplies - Region 15,2026-10-15,45269.91,USD,3-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00127,AP-2026127,SUP0003,Beacon Industrial Supplies - Region 3,2026-10-15,121793.29,USD,2-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00128,AP-2026128,SUP0049,Apex Logistics Solutions - Region 49,2026-10-15,61487.12,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00129,AP-2026129,SUP0029,Summit Tech Hardware - Region 29,2026-10-15,42753.07,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00130,AP-2026130,SUP0008,Crestview Security Systems - Region 8,2026-10-15,102808.93,USD,3-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00131,AP-2026131,SUP0004,Pinnacle Facilities Management - Region 4,2026-10-15,19177.94,USD,2-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00132,AP-2026132,SUP0016,Pinnacle Facilities Management - Region 16,2026-10-15,15026.83,USD,2-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00133,AP-2026133,SUP0015,Beacon Industrial Supplies - Region 15,2026-10-15,97017.77,USD,3-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00134,AP-2026134,SUP0038,NexGen Cloud Hosting - Region 38,2026-10-15,123756.4,USD,3-Way,Approved by CFO,None,Paid,101-200-511000-000-000
+INV00135,AP-2026135,SUP0049,Apex Logistics Solutions - Region 49,2026-10-15,26171.54,USD,3-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00136,AP-2026136,SUP0012,Matrix Precision Tooling - Region 12,2026-10-15,69111.03,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00137,AP-2026137,SUP0031,Atlas Strategic Consulting - Region 31,2026-10-15,36584.6,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00138,AP-2026138,SUP0030,Vanguard Office Interiors - Region 30,2026-10-15,9129.68,USD,3-Way,Auto-Approved,None,Paid,101-200-511000-000-000
+INV00139,AP-2026139,SUP0038,NexGen Cloud Hosting - Region 38,2026-10-15,82732.58,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00140,AP-2026140,SUP0042,Vanguard Office Interiors - Region 42,2026-10-15,18836.43,USD,2-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00141,AP-2026141,SUP0020,Crestview Security Systems - Region 20,2026-10-15,74481.74,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00142,AP-2026142,SUP0030,Vanguard Office Interiors - Region 30,2026-10-15,86162.58,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00143,AP-2026143,SUP0032,Crestview Security Systems - Region 32,2026-10-15,54860.42,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00144,AP-2026144,SUP0039,Beacon Industrial Supplies - Region 39,2026-10-15,31483.4,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00145,AP-2026145,SUP0037,Apex Logistics Solutions - Region 37,2026-10-15,73493.59,USD,2-Way,Held - Pending Change Order,PRICE HOLD,Unpaid,101-200-511000-000-000
+INV00146,AP-2026146,SUP0049,Apex Logistics Solutions - Region 49,2026-10-15,84117.13,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00147,AP-2026147,SUP0031,Atlas Strategic Consulting - Region 31,2026-10-15,64990.74,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00148,AP-2026148,SUP0028,Pinnacle Facilities Management - Region 28,2026-10-15,79439.39,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00149,AP-2026149,SUP0022,Horizon Global Freight - Region 22,2026-10-15,40302.02,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00150,AP-2026150,SUP0032,Crestview Security Systems - Region 32,2026-10-15,36205.17,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00151,AP-2026151,SUP0030,Vanguard Office Interiors - Region 30,2026-10-15,11235.46,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00152,AP-2026152,SUP0033,Quantum Data Analytics - Region 33,2026-10-15,103159.67,USD,2-Way,Approved by CFO,None,Unpaid,101-200-511000-000-000
+INV00153,AP-2026153,SUP0034,Horizon Global Freight - Region 34,2026-10-15,45381.98,USD,2-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00154,AP-2026154,SUP0014,NexGen Cloud Hosting - Region 14,2026-10-15,33565.27,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00155,AP-2026155,SUP0032,Crestview Security Systems - Region 32,2026-10-15,15397.9,USD,3-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00156,AP-2026156,SUP0011,Dynamic Packaging Corp - Region 11,2026-10-15,39016.08,USD,3-Way,Held - Pending Change Order,PRICE HOLD,Unpaid,101-200-511000-000-000
+INV00157,AP-2026157,SUP0027,Beacon Industrial Supplies - Region 27,2026-10-15,11877.85,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00158,AP-2026158,SUP0008,Crestview Security Systems - Region 8,2026-10-15,81051.78,USD,3-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00159,AP-2026159,SUP0046,Horizon Global Freight - Region 46,2026-10-15,34359.76,USD,3-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00160,AP-2026160,SUP0036,Matrix Precision Tooling - Region 36,2026-10-15,18294.09,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00161,AP-2026161,SUP0009,Quantum Data Analytics - Region 9,2026-10-15,108037.36,USD,2-Way,Approved by CFO,None,Paid,101-200-511000-000-000
+INV00162,AP-2026162,SUP0033,Quantum Data Analytics - Region 33,2026-10-15,33579.79,USD,2-Way,Held - Pending Change Order,PRICE HOLD,Unpaid,101-200-511000-000-000
+INV00163,AP-2026163,SUP0047,Dynamic Packaging Corp - Region 47,2026-10-15,37494.84,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00164,AP-2026164,SUP0010,Horizon Global Freight - Region 10,2026-10-15,55956.79,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00165,AP-2026165,SUP0025,Apex Logistics Solutions - Region 25,2026-10-15,57054.24,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00166,AP-2026166,SUP0037,Apex Logistics Solutions - Region 37,2026-10-15,48025.61,USD,2-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00167,AP-2026167,SUP0031,Atlas Strategic Consulting - Region 31,2026-10-15,88227.18,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00168,AP-2026168,SUP0042,Vanguard Office Interiors - Region 42,2026-10-15,122607.06,USD,2-Way,Held - Pending Change Order,PRICE HOLD,Unpaid,101-200-511000-000-000
+INV00169,AP-2026169,SUP0033,Quantum Data Analytics - Region 33,2026-10-15,120677.86,USD,2-Way,Approved by CFO,None,Unpaid,101-200-511000-000-000
+INV00170,AP-2026170,SUP0030,Vanguard Office Interiors - Region 30,2026-10-15,2164.61,USD,3-Way,Auto-Approved,None,Paid,101-200-511000-000-000
+INV00171,AP-2026171,SUP0005,Summit Tech Hardware - Region 5,2026-10-15,58818.95,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00172,AP-2026172,SUP0042,Vanguard Office Interiors - Region 42,2026-10-15,10269.34,USD,2-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00173,AP-2026173,SUP0021,Quantum Data Analytics - Region 21,2026-10-15,78443.2,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00174,AP-2026174,SUP0040,Pinnacle Facilities Management - Region 40,2026-10-15,8785.49,USD,3-Way,Auto-Approved,None,Paid,101-200-511000-000-000
+INV00175,AP-2026175,SUP0048,Matrix Precision Tooling - Region 48,2026-10-15,11524.82,USD,2-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00176,AP-2026176,SUP0007,Atlas Strategic Consulting - Region 7,2026-10-15,55598.9,USD,2-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00177,AP-2026177,SUP0004,Pinnacle Facilities Management - Region 4,2026-10-15,36847.63,USD,2-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00178,AP-2026178,SUP0037,Apex Logistics Solutions - Region 37,2026-10-15,85304.6,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00179,AP-2026179,SUP0025,Apex Logistics Solutions - Region 25,2026-10-15,77558.87,USD,3-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00180,AP-2026180,SUP0030,Vanguard Office Interiors - Region 30,2026-10-15,79828.6,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00181,AP-2026181,SUP0030,Vanguard Office Interiors - Region 30,2026-10-15,112675.88,USD,3-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00182,AP-2026182,SUP0023,Dynamic Packaging Corp - Region 23,2026-10-15,123459.55,USD,2-Way,Approved by CFO,None,Paid,101-200-511000-000-000
+INV00183,AP-2026183,SUP0020,Crestview Security Systems - Region 20,2026-10-15,25102.32,USD,3-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00184,AP-2026184,SUP0037,Apex Logistics Solutions - Region 37,2026-10-15,45030.15,USD,2-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00185,AP-2026185,SUP0043,Atlas Strategic Consulting - Region 43,2026-10-15,49626.77,USD,3-Way,Held - Pending Change Order,PRICE HOLD,Unpaid,101-200-511000-000-000
+INV00186,AP-2026186,SUP0044,Crestview Security Systems - Region 44,2026-10-15,97344.37,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00187,AP-2026187,SUP0019,Atlas Strategic Consulting - Region 19,2026-10-15,97023.69,USD,3-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00188,AP-2026188,SUP0013,Apex Logistics Solutions - Region 13,2026-10-15,77706.17,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00189,AP-2026189,SUP0009,Quantum Data Analytics - Region 9,2026-10-15,78623.95,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00190,AP-2026190,SUP0029,Summit Tech Hardware - Region 29,2026-10-15,4412.23,USD,3-Way,Auto-Approved,None,Paid,101-200-511000-000-000
+INV00191,AP-2026191,SUP0021,Quantum Data Analytics - Region 21,2026-10-15,93498.24,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00192,AP-2026192,SUP0024,Matrix Precision Tooling - Region 24,2026-10-15,66473.83,USD,2-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00193,AP-2026193,SUP0031,Atlas Strategic Consulting - Region 31,2026-10-15,120931.16,USD,3-Way,Approved by CFO,None,Paid,101-200-511000-000-000
+INV00194,AP-2026194,SUP0005,Summit Tech Hardware - Region 5,2026-10-15,17809.44,USD,2-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00195,AP-2026195,SUP0026,NexGen Cloud Hosting - Region 26,2026-10-15,120916.9,USD,3-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00196,AP-2026196,SUP0001,Apex Logistics Solutions - Region 1,2026-10-15,33241.21,USD,2-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00197,AP-2026197,SUP0017,Summit Tech Hardware - Region 17,2026-10-15,73173.87,USD,3-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00198,AP-2026198,SUP0015,Beacon Industrial Supplies - Region 15,2026-10-15,59066.74,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00199,AP-2026199,SUP0040,Pinnacle Facilities Management - Region 40,2026-10-15,27865.56,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00200,AP-2026200,SUP0020,Crestview Security Systems - Region 20,2026-10-15,81242.62,USD,3-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00201,AP-2026201,SUP0032,Crestview Security Systems - Region 32,2026-10-15,14736.03,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00202,AP-2026202,SUP0024,Matrix Precision Tooling - Region 24,2026-10-15,83893.16,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00203,AP-2026203,SUP0048,Matrix Precision Tooling - Region 48,2026-10-15,90893.24,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00204,AP-2026204,SUP0040,Pinnacle Facilities Management - Region 40,2026-10-15,51162.46,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00205,AP-2026205,SUP0029,Summit Tech Hardware - Region 29,2026-10-15,55725.81,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00206,AP-2026206,SUP0024,Matrix Precision Tooling - Region 24,2026-10-15,68172.12,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00207,AP-2026207,SUP0013,Apex Logistics Solutions - Region 13,2026-10-15,121033.81,USD,2-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00208,AP-2026208,SUP0014,NexGen Cloud Hosting - Region 14,2026-10-15,80302.63,USD,3-Way,Held - Awaiting Warehouse Receipt,QTY REC HOLD,Unpaid,101-200-511000-000-000
+INV00209,AP-2026209,SUP0022,Horizon Global Freight - Region 22,2026-10-15,30635.22,USD,3-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00210,AP-2026210,SUP0049,Apex Logistics Solutions - Region 49,2026-10-15,69387.42,USD,3-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00211,AP-2026211,SUP0050,NexGen Cloud Hosting - Region 50,2026-10-15,18657.38,USD,3-Way,Held - Awaiting Warehouse Receipt,QTY REC HOLD,Unpaid,101-200-511000-000-000
+INV00212,AP-2026212,SUP0010,Horizon Global Freight - Region 10,2026-10-15,123444.03,USD,2-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00213,AP-2026213,SUP0002,NexGen Cloud Hosting - Region 2,2026-10-15,16692.45,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00214,AP-2026214,SUP0002,NexGen Cloud Hosting - Region 2,2026-10-15,21987.21,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00215,AP-2026215,SUP0048,Matrix Precision Tooling - Region 48,2026-10-15,8178.87,USD,2-Way,Auto-Approved,None,Paid,101-200-511000-000-000
+INV00216,AP-2026216,SUP0029,Summit Tech Hardware - Region 29,2026-10-15,63103.88,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00217,AP-2026217,SUP0043,Atlas Strategic Consulting - Region 43,2026-10-15,65301.04,USD,3-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00218,AP-2026218,SUP0031,Atlas Strategic Consulting - Region 31,2026-10-15,105950.49,USD,3-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00219,AP-2026219,SUP0029,Summit Tech Hardware - Region 29,2026-10-15,9417.97,USD,3-Way,Auto-Approved,None,Unpaid,101-200-511000-000-000
+INV00220,AP-2026220,SUP0018,Vanguard Office Interiors - Region 18,2026-10-15,78133.61,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00221,AP-2026221,SUP0039,Beacon Industrial Supplies - Region 39,2026-10-15,66436.97,USD,3-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00222,AP-2026222,SUP0045,Quantum Data Analytics - Region 45,2026-10-15,14523.16,USD,2-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00223,AP-2026223,SUP0014,NexGen Cloud Hosting - Region 14,2026-10-15,53901.23,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00224,AP-2026224,SUP0026,NexGen Cloud Hosting - Region 26,2026-10-15,52144.71,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00225,AP-2026225,SUP0024,Matrix Precision Tooling - Region 24,2026-10-15,119210.67,USD,2-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00226,AP-2026226,SUP0006,Vanguard Office Interiors - Region 6,2026-10-15,11880.46,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00227,AP-2026227,SUP0036,Matrix Precision Tooling - Region 36,2026-10-15,7732.63,USD,3-Way,Auto-Approved,None,Paid,101-200-511000-000-000
+INV00228,AP-2026228,SUP0027,Beacon Industrial Supplies - Region 27,2026-10-15,44361.36,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00229,AP-2026229,SUP0047,Dynamic Packaging Corp - Region 47,2026-10-15,6667.9,USD,3-Way,Auto-Approved,None,Unpaid,101-200-511000-000-000
+INV00230,AP-2026230,SUP0033,Quantum Data Analytics - Region 33,2026-10-15,26789.17,USD,2-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00231,AP-2026231,SUP0036,Matrix Precision Tooling - Region 36,2026-10-15,46103.24,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00232,AP-2026232,SUP0036,Matrix Precision Tooling - Region 36,2026-10-15,121824.69,USD,3-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00233,AP-2026233,SUP0002,NexGen Cloud Hosting - Region 2,2026-10-15,76222.12,USD,3-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00234,AP-2026234,SUP0018,Vanguard Office Interiors - Region 18,2026-10-15,87911.67,USD,2-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00235,AP-2026235,SUP0010,Horizon Global Freight - Region 10,2026-10-15,70898.56,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00236,AP-2026236,SUP0002,NexGen Cloud Hosting - Region 2,2026-10-15,11696.77,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00237,AP-2026237,SUP0011,Dynamic Packaging Corp - Region 11,2026-10-15,46414.12,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00238,AP-2026238,SUP0006,Vanguard Office Interiors - Region 6,2026-10-15,110446.94,USD,3-Way,Approved by CFO,None,Unpaid,101-200-511000-000-000
+INV00239,AP-2026239,SUP0029,Summit Tech Hardware - Region 29,2026-10-15,82826.85,USD,3-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00240,AP-2026240,SUP0049,Apex Logistics Solutions - Region 49,2026-10-15,64165.2,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00241,AP-2026241,SUP0038,NexGen Cloud Hosting - Region 38,2026-10-15,60957.44,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00242,AP-2026242,SUP0039,Beacon Industrial Supplies - Region 39,2026-10-15,7084.05,USD,3-Way,Auto-Approved,None,Paid,101-200-511000-000-000
+INV00243,AP-2026243,SUP0049,Apex Logistics Solutions - Region 49,2026-10-15,32126.06,USD,3-Way,Held - Awaiting Warehouse Receipt,QTY REC HOLD,Unpaid,101-200-511000-000-000
+INV00244,AP-2026244,SUP0048,Matrix Precision Tooling - Region 48,2026-10-15,53974.21,USD,2-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00245,AP-2026245,SUP0036,Matrix Precision Tooling - Region 36,2026-10-15,104210.94,USD,3-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00246,AP-2026246,SUP0003,Beacon Industrial Supplies - Region 3,2026-10-15,54668.39,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00247,AP-2026247,SUP0028,Pinnacle Facilities Management - Region 28,2026-10-15,71781.61,USD,3-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00248,AP-2026248,SUP0002,NexGen Cloud Hosting - Region 2,2026-10-15,120783.41,USD,3-Way,Approved by CFO,None,Paid,101-200-511000-000-000
+INV00249,AP-2026249,SUP0024,Matrix Precision Tooling - Region 24,2026-10-15,11244.2,USD,2-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00250,AP-2026250,SUP0034,Horizon Global Freight - Region 34,2026-10-15,10061.22,USD,2-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00251,AP-2026251,SUP0050,NexGen Cloud Hosting - Region 50,2026-10-15,21224.56,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00252,AP-2026252,SUP0050,NexGen Cloud Hosting - Region 50,2026-10-15,43834.56,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00253,AP-2026253,SUP0016,Pinnacle Facilities Management - Region 16,2026-10-15,13074.86,USD,2-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00254,AP-2026254,SUP0049,Apex Logistics Solutions - Region 49,2026-10-15,82024.75,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00255,AP-2026255,SUP0049,Apex Logistics Solutions - Region 49,2026-10-15,70576.0,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00256,AP-2026256,SUP0042,Vanguard Office Interiors - Region 42,2026-10-15,79503.47,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00257,AP-2026257,SUP0010,Horizon Global Freight - Region 10,2026-10-15,55110.41,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00258,AP-2026258,SUP0038,NexGen Cloud Hosting - Region 38,2026-10-15,7257.47,USD,3-Way,Auto-Approved,None,Paid,101-200-511000-000-000
+INV00259,AP-2026259,SUP0004,Pinnacle Facilities Management - Region 4,2026-10-15,46250.02,USD,2-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00260,AP-2026260,SUP0006,Vanguard Office Interiors - Region 6,2026-10-15,76972.3,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00261,AP-2026261,SUP0048,Matrix Precision Tooling - Region 48,2026-10-15,112010.63,USD,2-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00262,AP-2026262,SUP0021,Quantum Data Analytics - Region 21,2026-10-15,75724.48,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00263,AP-2026263,SUP0022,Horizon Global Freight - Region 22,2026-10-15,122802.6,USD,3-Way,Approved by CFO,None,Paid,101-200-511000-000-000
+INV00264,AP-2026264,SUP0029,Summit Tech Hardware - Region 29,2026-10-15,65627.55,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00265,AP-2026265,SUP0025,Apex Logistics Solutions - Region 25,2026-10-15,51243.98,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00266,AP-2026266,SUP0042,Vanguard Office Interiors - Region 42,2026-10-15,41997.51,USD,2-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00267,AP-2026267,SUP0017,Summit Tech Hardware - Region 17,2026-10-15,90535.77,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00268,AP-2026268,SUP0022,Horizon Global Freight - Region 22,2026-10-15,10417.37,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00269,AP-2026269,SUP0042,Vanguard Office Interiors - Region 42,2026-10-15,87385.38,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00270,AP-2026270,SUP0020,Crestview Security Systems - Region 20,2026-10-15,69975.53,USD,3-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00271,AP-2026271,SUP0045,Quantum Data Analytics - Region 45,2026-10-15,103662.63,USD,2-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00272,AP-2026272,SUP0042,Vanguard Office Interiors - Region 42,2026-10-15,83889.39,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00273,AP-2026273,SUP0014,NexGen Cloud Hosting - Region 14,2026-10-15,42881.11,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00274,AP-2026274,SUP0010,Horizon Global Freight - Region 10,2026-10-15,9876.34,USD,2-Way,Auto-Approved,None,Paid,101-200-511000-000-000
+INV00275,AP-2026275,SUP0048,Matrix Precision Tooling - Region 48,2026-10-15,110489.35,USD,2-Way,Approved by CFO,None,Unpaid,101-200-511000-000-000
+INV00276,AP-2026276,SUP0025,Apex Logistics Solutions - Region 25,2026-10-15,19493.03,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00277,AP-2026277,SUP0011,Dynamic Packaging Corp - Region 11,2026-10-15,90217.58,USD,3-Way,Held - Pending Change Order,PRICE HOLD,Unpaid,101-200-511000-000-000
+INV00278,AP-2026278,SUP0024,Matrix Precision Tooling - Region 24,2026-10-15,84626.27,USD,2-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00279,AP-2026279,SUP0048,Matrix Precision Tooling - Region 48,2026-10-15,98029.09,USD,2-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00280,AP-2026280,SUP0031,Atlas Strategic Consulting - Region 31,2026-10-15,113020.8,USD,3-Way,Approved by CFO,None,Paid,101-200-511000-000-000
+INV00281,AP-2026281,SUP0050,NexGen Cloud Hosting - Region 50,2026-10-15,35401.02,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00282,AP-2026282,SUP0013,Apex Logistics Solutions - Region 13,2026-10-15,100207.09,USD,2-Way,Approved by CFO,None,Paid,101-200-511000-000-000
+INV00283,AP-2026283,SUP0036,Matrix Precision Tooling - Region 36,2026-10-15,116803.12,USD,3-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00284,AP-2026284,SUP0006,Vanguard Office Interiors - Region 6,2026-10-15,95448.82,USD,3-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00285,AP-2026285,SUP0028,Pinnacle Facilities Management - Region 28,2026-10-15,11691.27,USD,3-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
+INV00286,AP-2026286,SUP0002,NexGen Cloud Hosting - Region 2,2026-10-15,52008.39,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00287,AP-2026287,SUP0006,Vanguard Office Interiors - Region 6,2026-10-15,47020.36,USD,3-Way,Held - Pending Change Order,PRICE HOLD,Unpaid,101-200-511000-000-000
+INV00288,AP-2026288,SUP0007,Atlas Strategic Consulting - Region 7,2026-10-15,104937.24,USD,2-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00289,AP-2026289,SUP0019,Atlas Strategic Consulting - Region 19,2026-10-15,114695.17,USD,3-Way,Pending CFO Approval,None,Unpaid,101-200-511000-000-000
+INV00290,AP-2026290,SUP0031,Atlas Strategic Consulting - Region 31,2026-10-15,56213.03,USD,3-Way,Held - Pending Change Order,PRICE HOLD,Unpaid,101-200-511000-000-000
+INV00291,AP-2026291,SUP0006,Vanguard Office Interiors - Region 6,2026-10-15,2620.73,USD,3-Way,Auto-Approved,None,Paid,101-200-511000-000-000
+INV00292,AP-2026292,SUP0039,Beacon Industrial Supplies - Region 39,2026-10-15,66089.5,USD,3-Way,Approved by Department VP,None,Paid,101-200-511000-000-000
+INV00293,AP-2026293,SUP0004,Pinnacle Facilities Management - Region 4,2026-10-15,29995.33,USD,2-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00294,AP-2026294,SUP0032,Crestview Security Systems - Region 32,2026-10-15,74693.2,USD,3-Way,Held - Pending Change Order,PRICE HOLD,Unpaid,101-200-511000-000-000
+INV00295,AP-2026295,SUP0033,Quantum Data Analytics - Region 33,2026-10-15,71987.17,USD,2-Way,Approved by Department VP,None,Unpaid,101-200-511000-000-000
+INV00296,AP-2026296,SUP0023,Dynamic Packaging Corp - Region 23,2026-10-15,30260.39,USD,2-Way,Approved by Cost Center Mgr,None,Unpaid,101-200-511000-000-000
+INV00297,AP-2026297,SUP0024,Matrix Precision Tooling - Region 24,2026-10-15,8693.0,USD,2-Way,Auto-Approved,None,Paid,101-200-511000-000-000
+INV00298,AP-2026298,SUP0036,Matrix Precision Tooling - Region 36,2026-10-15,2786.7,USD,3-Way,Auto-Approved,None,Paid,101-200-511000-000-000
+INV00299,AP-2026299,SUP0024,Matrix Precision Tooling - Region 24,2026-10-15,31892.87,USD,2-Way,Held - Pending Change Order,PRICE HOLD,Unpaid,101-200-511000-000-000
+INV00300,AP-2026300,SUP0005,Summit Tech Hardware - Region 5,2026-10-15,43264.11,USD,2-Way,Approved by Cost Center Mgr,None,Paid,101-200-511000-000-000
